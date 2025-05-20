@@ -17,7 +17,7 @@ h1, h2, h3 {
     color: #f1f1f1;
     text-decoration: none;
     padding: 10px 30px;
-    background-color: #8f3faf;
+    background-color: #f10101;
     font-size: .9em;
     border-radius: 3px;
 }
@@ -69,7 +69,7 @@ CABEÇALHO
 */
 
 header {
-    background-image: url('../img/fundo.jpg');
+    background-image: url('../img/Animesfundo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -95,7 +95,7 @@ SOBRE
     align-items: center;
     text-align: center;
     padding: 10px 20px 20px;
-    background-color: #8f3faf;
+    background-color: #fa0505;
     color: #f1f1f1;
 }
 
